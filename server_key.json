@@ -1,0 +1,12 @@
+{
+  "hub": "Banana Cat Hub - Aegis V24.0 Live Auth",
+  "verify_tag": 1779572110,
+  "encrypted_vm_token": 6615922,
+  "issued_at": 1792753080,
+  "expires_at": 1792839480,
+  "expire_hours": 24,
+  "handshake_slot": 8492017,
+  "signature_mac": 484870726,
+  "get_key_url": "https://link4m.org/JdcPcD",
+  "core_url": "https://raw.githubusercontent.com/tranhuykhang31032013-koocbiet/chuoi_mahoa.lua/refs/heads/main/chuoi.lua"
+}
