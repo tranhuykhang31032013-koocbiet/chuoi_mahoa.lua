@@ -2,7 +2,7 @@ local typeof = typeof or type
 
 local KEY_CONFIG = {
 
-	CoreScriptUrl = "https://raw.githubusercontent.com/TEN_GITHUB_CUA_BAN/TEN_REPO/main/chuoi_mahoa.lua",
+	CoreScriptUrl = "https://raw.githubusercontent.com/tranhuykhang31032013-koocbiet/chuoi_mahoa.lua/refs/heads/main/chuoi_mahoa.lua?token=GHSAT0AAAAAAENM6CAPPEF5ZUVLRNMLBQFK2W26QDQ",
 
 	GetKeyUrl = "https://link4m.com/your-get-key-link",
 
