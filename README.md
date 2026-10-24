@@ -1,1 +1,1 @@
-# chuoi_mahoa.lua
+# script blox fruit
